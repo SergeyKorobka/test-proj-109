@@ -4,3 +4,7 @@ footer {
 
   background-image: url(/img/vite-logo.png);
 }
+footer p {
+  color: red;
+  font-size: 30px;
+}
